@@ -4,6 +4,13 @@ import java.util.List;
 public class Desafio04 {
     public static void main(String[] args) {
 
+        /*
+         * 
+         * TO DO
+         * Comentários 
+         * 
+         */
+
         int num01 = 8553;
         System.out.println(ordenNum(num01).toString());
         
